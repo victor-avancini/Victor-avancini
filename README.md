@@ -20,3 +20,5 @@
   <img align="center" alt="victor-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
   <img align="center" alt="victor-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>          
+
+![Snake animation](https://github.com/victor-avancini/Victor-avancini/blob/output/github-contribution-grid-snake.svg)
