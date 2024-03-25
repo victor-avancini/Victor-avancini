@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje eu trabalho com front-end
-- 🌱 Estou estudando TypeScript e Express
+- 🌱 Estou estudando PostgreeSQL
 - 😄 Pronouns: Ele/Dele
 
 <div>
