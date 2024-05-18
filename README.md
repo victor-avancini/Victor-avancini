@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Victor Avancini 👋
 
 
-- 🔭 Hoje eu trabalho com front-end
-- 🌱 Estou estudando PostgreeSQL
+- 🔭 Hoje eu trabalho com TypeScript, SQL, React
+- 🌱 Estou estudando Java
 - 😄 Pronouns: Ele/Dele
 
 <div>
