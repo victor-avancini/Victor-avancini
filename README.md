@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje eu trabalho com TypeScript, SQL, React
-- 🌱 Estou estudando Java
+- 🌱 Estou estudando Java, Spring Boot e Python/Django
 - 😄 Pronouns: Ele/Dele
 
 <div>
