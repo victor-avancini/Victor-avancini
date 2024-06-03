@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Victor Avancini 👋
 
 
-- 🔭 Hoje eu trabalho com TypeScript, SQL, React
+- 🔭 Hoje eu trabalho com Python/Django
 - 🌱 Estou estudando Java, Spring Boot e Python/Django
 - 😄 Pronouns: Ele/Dele
 
