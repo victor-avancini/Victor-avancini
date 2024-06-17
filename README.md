@@ -3,7 +3,6 @@
 
 - 🔭 Hoje eu trabalho com Python/Django
 - 🌱 Estou estudando Java, Spring Boot e Python/Django
-- 😄 Pronouns: Ele/Dele
 
 <div>
   <a href="https://github.com/victor-avancini"></a>
