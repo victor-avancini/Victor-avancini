@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Victor Avancini 👋
 
 
-- 🔭 Hoje eu trabalho com Python/Django
+- 🔭 Hoje eu trabalho como desenvolvedor backend Python/Django na SaltCode
 - 🌱 Estou estudando Java, Spring Boot e Python/Django
 
 <div>
